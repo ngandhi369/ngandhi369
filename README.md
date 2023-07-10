@@ -26,9 +26,6 @@
 💻 My technical skill set includes proficiency in C, C++, Python, Java, JavaScript, jQuery, PHP, MySQL, Django, Flask, Bootstrap, and Git-GitHub. These tools enable me to develop robust and innovative solutions that address complex challenges.
 
 
-<br/>  
-
-
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
@@ -52,8 +49,6 @@
 
 
 </td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -85,8 +80,6 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>  
 
-<br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -98,14 +91,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngandhi369&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
+ 
 
 🤝 I am excited to connect with like-minded professionals, collaborate on meaningful projects, and contribute to the advancement of the field. Let's explore possibilities together and make a positive impact!
   
 
-<br/>  
-
-----
 
 <!-- <br/>  <br /> <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->

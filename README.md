@@ -21,8 +21,10 @@
 
 🎓 I am currently pursuing an M. Tech in Artificial Intelligence at DTU (Delhi Technological University) and I completed my B. Tech in Computer Engineering at BVM (Birla Vishvakarma Mahavidyalaya). My academic journey has fueled my passion for exploring cutting-edge tools and models in Artificial Intelligence, Machine Learning, Computer Vision, and Neural Networks. I strongly believe in the transformative power of programming to enhance the lives of individuals and drive positive change.
 
-🤝 I am excited to connect with like-minded professionals, collaborate on meaningful projects, and contribute to the advancement of the field. Let's explore possibilities together and make a positive impact!  
-  
+💡 As an aspiring AI professional, I am committed to pushing boundaries and embracing new possibilities in this dynamic field. I constantly seek opportunities to expand my knowledge and skill set, ensuring that I stay at the forefront of technological advancements.
+
+💻 My technical skill set includes proficiency in C, C++, Python, Java, JavaScript, jQuery, PHP, MySQL, Django, Flask, Bootstrap, and Git-GitHub. These tools enable me to develop robust and innovative solutions that address complex challenges.
+
 
 <br/>  
 
@@ -99,16 +101,11 @@
 
 <br/>  
 
+🤝 I am excited to connect with like-minded professionals, collaborate on meaningful projects, and contribute to the advancement of the field. Let's explore possibilities together and make a positive impact!
   
 
 <br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<!-- <br/>  <br /> <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->

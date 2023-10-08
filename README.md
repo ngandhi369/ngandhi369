@@ -28,21 +28,23 @@
 <br>
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%">
 
-- 🌱 I’m currently learning Machine Learning and Deep Learning concepts.  
+- 🌱 I’m currently exploring Machine Learning and Deep Learning concepts.  
   
 
-- ❓ Ask me about anything related to Django, Machine Learning  
-  
+-  ❓  Ask me about anything related to Django, Machine Learning  
 
-- 📫  How to reach me: [gandhi_2k22afi06@dtu.ac.in](mailto:gandhi_2k22afi06@dtu.ac.in)  
   
+- 📌 Deployed Project: [gandhiartdrawing.pythonanywhere.com/](http://gandhiartdrawing.pythonanywhere.com/)
+
 
 - 🔗 Visit my portfolio at: [nirdoshgandhi036.web.app/](https://nirdoshgandhi036.web.app/)  
 
 
-</td><td valign="top" width="50%">
+- 📧 How to reach me: [gandhi_2k22afi06@dtu.ac.in](mailto:gandhi_2k22afi06@dtu.ac.in)  
+
+</td><td valign="top" width="40%">
 
 <div align="center">
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="center" height="250" width="300" />

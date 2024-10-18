@@ -42,7 +42,7 @@
 - 🔗 Visit my portfolio at: [nirdoshgandhi036.web.app/](https://nirdoshgandhi036.web.app/)  
 
 
-- 📧 How to reach me: [gandhi_2k22afi06@dtu.ac.in](mailto:gandhi_2k22afi06@dtu.ac.in)  
+- 📧 How to reach me: [gandhinirdosh@gmail.com](mailto:gandhinirdosh@gmail.com)  
 
 </td><td valign="top" width="40%">
 

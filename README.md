@@ -19,39 +19,41 @@
 
 ### Glad to see you here!  
 
-🎓 I am currently pursuing an M. Tech in Artificial Intelligence at DTU (Delhi Technological University) and I completed my B. Tech in Computer Engineering at BVM (Birla Vishvakarma Mahavidyalaya). My academic journey has fueled my passion for exploring cutting-edge tools and models in Artificial Intelligence, Machine Learning, Computer Vision, and Neural Networks. I strongly believe in the transformative power of programming to enhance the lives of individuals and drive positive change.
+💻 I work as a Data Engineer at **[Axtria](https://www.axtria.com/) - Ingenious Insights**, Bengaluru 
 
-💡 As an aspiring AI professional, I am committed to pushing boundaries and embracing new possibilities in this dynamic field. I constantly seek opportunities to expand my knowledge and skill set, ensuring that I stay at the forefront of technological advancements.
+🎓 I hold an M. Tech in Artificial Intelligence from **Delhi Technological University [(DTU)](https://dtu.ac.in/) Formerly known as Delhi College of Engineering (DCE)** and a B. Tech in Computer Engineering at **Birla Vishvakarma Mahavidyalaya [(BVM)](https://bvmengineering.ac.in/)**. My academic background has fueled my passion for cutting-edge technologies in AI, Machine Learning, Computer Vision, and Neural Networks. I believe programming has the power to drive positive change and improve lives.
 
-💻 My technical skill set includes proficiency in C, C++, Python, Java, JavaScript, jQuery, PHP, MySQL, Django, Flask, Bootstrap, and Git-GitHub. These tools enable me to develop robust and innovative solutions that address complex challenges.
+💡 As an aspiring AI professional, I am dedicated to pushing the boundaries of innovation and continuously expanding my knowledge to stay at the forefront of this dynamic field.
 
+🔧 My technical skills include C, C++, Python, Java, JavaScript, MySQL, Azure, Databricks, Azure Data Factory, Azure DevOps, Django, Pandas, Numpy, Scikit-learn, Flask, PHP, jQuery, Bootstrap, Excel, Git/GitHub, Jira, and Confluence. These tools empower me to develop robust, innovative solutions to complex challenges.
 <br>
 
 ## Rapidfire  
-<table><tr><td valign="top" width="60%">
-
-- 🌱 I’m currently exploring Machine Learning and Deep Learning concepts.  
+<table>
+<tr>
+<td valign="top" width="40%">
   
+<div align="center">
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="center" height="250" width="300" />
+</div>
 
+</td>
+
+<td valign="top" width="60%">
+
+- 🌱 I’m currently exploring Machine Learning and Deep Learning concepts.
+   
 -  ❓  Ask me about anything related to Django, Machine Learning  
 
-  
 - 📌 Deployed Project: [gandhiartdrawing.pythonanywhere.com/](http://gandhiartdrawing.pythonanywhere.com/)
-
 
 - 🔗 Visit my portfolio at: [nirdoshgandhi036.web.app/](https://nirdoshgandhi036.web.app/)  
 
-
 - 📧 How to reach me: [gandhinirdosh@gmail.com](mailto:gandhinirdosh@gmail.com)  
 
-</td><td valign="top" width="40%">
-
-<div align="center">
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="center" height="250" width="300" />
-</div>  
-
-
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 <br>
 
@@ -82,6 +84,7 @@
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
 </div>  
 
 <br>

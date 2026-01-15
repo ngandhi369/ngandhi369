@@ -36,10 +36,9 @@
 
 </td>
 </tr>
-</table> 
-<br>
+</table>
 
-## Skill-set:  
+## Tech Stack:  
 <div align="center">  
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  

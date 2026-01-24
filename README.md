@@ -2,16 +2,16 @@
   
 ## Glad to see you here!  
 
-### Work:
+### # Work:
 💻 **Associate Data Engineer** at **[Axtria](https://www.axtria.com/) - Ingenious Insights**, 📍 Bengaluru, Karnataka 
 
 
-### Education:
+### # Education:
 🎓 **M. Tech** - Artificial Intelligence from **Delhi Technological University [(DTU)](https://dtu.ac.in/)** Formerly known as Delhi College of Engineering (DCE)
 <br>
 🎓 **B. Tech** - Computer Engineering at **Birla Vishvakarma Mahavidyalaya [(BVM)](https://bvmengineering.ac.in/)**.
 
-### Technical skills: 
+### # Technical skills: 
 • Azure DevOps • Databricks • Azure Data Factory • Python • MySQL • Django • Pandas • C/C++ • JavaScript • Git/GitHub • Numpy • Scikit-learn • Flask • MS Excel • Java 
 
 #### 💡 As an aspiring AI professional, I am dedicated to pushing the boundaries of innovation and continuously expanding my knowledge to stay at the forefront of this dynamic field.

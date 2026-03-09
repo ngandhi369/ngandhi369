@@ -1,26 +1,9 @@
 # Hey 👋, I'm Nirdosh Gandhi!  
   
-## Glad to see you here!  
+### Glad to see you here!  
 
-### # WORK:
-### 💻 **Associate Data Engineer** at **[Axtria](https://www.axtria.com/) - Ingenious Insights**, 📍 Bengaluru, Karnataka 
+💡 As an aspiring Data & AI professional, I am dedicated to pushing the boundaries of innovation and continuously expanding my knowledge to stay at the forefront of this dynamic field.
 
-<br>
-
-### # EDUCATION:
-### 🎓 **M. Tech** - Artificial Intelligence, **Delhi Technological University [(DTU)](https://dtu.ac.in/)** 
-### 🎓 **B. Tech** - Computer Engineering, **Birla Vishvakarma Mahavidyalaya [(BVM)](https://bvmengineering.ac.in/)**.
-
-<br>
-
-### # TECHCNICAL SKILLS: 
-### • Azure DevOps • Databricks • Azure Data Factory • Python • MySQL • Django • Pandas • C/C++ 
-### • JavaScript • Git/GitHub • Numpy • Scikit-learn • Flask • MS Excel • Java 
-
-<br>
-
-#### 💡 As an aspiring AI professional, I am dedicated to pushing the boundaries of innovation and continuously expanding my knowledge to stay at the forefront of this dynamic field.
-<br>
 
 ## Rapidfire: 
 <table align="center">
@@ -47,7 +30,7 @@
 </tr>
 </table>
 
-## Tech Stack:  
+### Tech Stack:  
 <div align="center">  
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -71,7 +54,6 @@
 
 🤝 I am excited to connect with like-minded professionals, collaborate on meaningful projects, and contribute to the advancement of the field. Let's explore possibilities together and make a positive impact!
 
-<br>
 
 <div align="center" valign="center">
   <a href="https://github.com/ngandhi369" target="_blank">

@@ -2,17 +2,22 @@
   
 ## Glad to see you here!  
 
-### # Work:
-💻 **Associate Data Engineer** at **[Axtria](https://www.axtria.com/) - Ingenious Insights**, 📍 Bengaluru, Karnataka 
+### # WORK:
+### 💻 **Associate Data Engineer** at **[Axtria](https://www.axtria.com/) - Ingenious Insights**, 📍 Bengaluru, Karnataka 
 
-
-### # Education:
-🎓 **M. Tech** - Artificial Intelligence from **Delhi Technological University [(DTU)](https://dtu.ac.in/)** Formerly known as Delhi College of Engineering (DCE)
 <br>
-🎓 **B. Tech** - Computer Engineering at **Birla Vishvakarma Mahavidyalaya [(BVM)](https://bvmengineering.ac.in/)**.
 
-### # Technical skills: 
-• Azure DevOps • Databricks • Azure Data Factory • Python • MySQL • Django • Pandas • C/C++ • JavaScript • Git/GitHub • Numpy • Scikit-learn • Flask • MS Excel • Java 
+### # EDUCATION:
+### 🎓 **M. Tech** - Artificial Intelligence, **Delhi Technological University [(DTU)](https://dtu.ac.in/)** 
+### 🎓 **B. Tech** - Computer Engineering, **Birla Vishvakarma Mahavidyalaya [(BVM)](https://bvmengineering.ac.in/)**.
+
+<br>
+
+### # TECHCNICAL SKILLS: 
+### • Azure DevOps • Databricks • Azure Data Factory • Python • MySQL • Django • Pandas • C/C++ 
+### • JavaScript • Git/GitHub • Numpy • Scikit-learn • Flask • MS Excel • Java 
+
+<br>
 
 #### 💡 As an aspiring AI professional, I am dedicated to pushing the boundaries of innovation and continuously expanding my knowledge to stay at the forefront of this dynamic field.
 <br>
@@ -67,8 +72,6 @@
 🤝 I am excited to connect with like-minded professionals, collaborate on meaningful projects, and contribute to the advancement of the field. Let's explore possibilities together and make a positive impact!
 
 <br>
-<br>
-
 
 <div align="center" valign="center">
   <a href="https://github.com/ngandhi369" target="_blank">
@@ -93,6 +96,5 @@
 
 <br>
 
----
 
 <!-- <br/>  <br /> <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->

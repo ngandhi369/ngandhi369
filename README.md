@@ -7,7 +7,9 @@ Glad to see you here!
 I enjoy working at the intersection of **Data Engineering, Machine Learning, and AI research**.  
 Currently focused on building **scalable data pipelines and intelligent systems** using modern data platforms.
 
-I believe in **continuous learning, practical implementation, and meaningful innovation through data.**
+I believe  in **continuous learning, practical implementation, and meaningful innovation through data.**
+
+Reach me at: gandhinirdosh@gmail.com
 
 ---
 
@@ -34,9 +36,6 @@ I believe in **continuous learning, practical implementation, and meaningful inn
 
 - 🚀 Deployed Project:  
   http://gandhiartdrawing.pythonanywhere.com/
-
-- 📧 Reach me at:  
-  gandhinirdosh@gmail.com
 
 </td>
 </tr>

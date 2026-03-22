@@ -15,7 +15,7 @@ I believe in **continuous learning, practical implementation, and meaningful inn
 
 <table align="center">
 <tr>
-<td valign="center" width="40%">
+<td valign="center" width="20%">
 
 <div align="center">
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="center" height="200" width="250" />
@@ -23,14 +23,11 @@ I believe in **continuous learning, practical implementation, and meaningful inn
 
 </td>
 
-<td valign="center" width="60%">
+<td valign="center" width="80%">
 
-- 🎓 M.Tech in **Artificial Intelligence**
-- 📊 Working with **Data Engineering & Big Data Technologies**
-- 🔬 Published research on **Image Captioning using CNN + LSTM**
+- 📊 Working with **Data Engineering on Pharmaceutical Market Data**
 - ⚙️ Experience with **Azure Databricks, PySpark, ETL Pipelines**
-- 📈 Worked with **Pharmaceutical Market Data**
-- 🌱 Currently exploring **Data Engineering Architecture & Deep Learning**
+- 🎓 M.Tech in **Artificial Intelligence**
 
 - 🌐 Portfolio:  
   https://nirdoshgandhi036.web.app/
@@ -49,23 +46,23 @@ I believe in **continuous learning, practical implementation, and meaningful inn
 
 # 🛠 Tech Stack
 
-### Data Engineering
-Azure Databricks • PySpark • Azure Data Factory • Delta Lake • ETL Pipelines • SQL
+### ⚙️ Data Engineering:
+`Azure Databricks` • `PySpark` • `ADF` • `Delta Lake` • `ETL` • `SQL`
 
-### Programming
-Python • SQL • JavaScript • C++
+### 💻 Programming:
+`Python` • `SQL` • `JavaScript` • `C++`
 
-### Data & AI
-TensorFlow • Deep Learning • Computer Vision • NLP • OpenCV
+### 🤖 Data & AI:
+`TensorFlow` • `Deep Learning` • `Computer Vision` • `NLP` • `OpenCV`
 
-### Data Tools
-Pandas • NumPy • Tableau • Excel
+### 📊 Data Tools:  
+`Pandas` • `NumPy` • `Tableau` • `Excel`
 
-### Backend / Development
-Flask • Django • Firebase
+### 🛠️ Backend / Development:
+`Flask` • `Django` • `Firebase`
 
-### Tools
-Git • GitHub • DBeaver • LaTeX
+### 🔧 Tools:
+`Git` • `GitHub` • `DBeaver` • `LaTeX`
 
 ---
 

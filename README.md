@@ -45,22 +45,12 @@ Reach me at: gandhinirdosh@gmail.com
 
 ## 🛠 Tech Stack
 
-### ⚙️ Data Engineering:
-`Azure Databricks` • `Azure Databricks` • `Azure Data Factory` • `PySpark` • `Delta Lake` • `ETL` • `SQL`
+**⚙️ Data Engineering:** &nbsp;&nbsp;`Azure Databricks`&nbsp;&nbsp;•&nbsp;&nbsp;`Azure DevOps`&nbsp;&nbsp;•&nbsp;&nbsp;`Data Factory`&nbsp;&nbsp;•&nbsp;&nbsp;`PySpark`&nbsp;&nbsp;•&nbsp;&nbsp;`Delta Lake`&nbsp;&nbsp;•&nbsp;&nbsp;`ETL`&nbsp;&nbsp;•&nbsp;&nbsp;`SQL`  
+**💻 Programming:** &nbsp;&nbsp;`Python`&nbsp;&nbsp;•&nbsp;&nbsp;`SQL`&nbsp;&nbsp;•&nbsp;&nbsp;`JavaScript`&nbsp;&nbsp;•&nbsp;&nbsp;`C++`  
+**📊 ML/AI:** &nbsp;&nbsp;`TensorFlow`&nbsp;&nbsp;•&nbsp;&nbsp;`Deep Learning`&nbsp;&nbsp;•&nbsp;&nbsp;`NLP`&nbsp;&nbsp;•&nbsp;&nbsp;`OpenCV`&nbsp;&nbsp;•&nbsp;&nbsp;`Pandas`&nbsp;&nbsp;•&nbsp;&nbsp;`NumPy`  
+**🛠️ Backend:** &nbsp;&nbsp;`Flask`&nbsp;&nbsp;•&nbsp;&nbsp;`Django`&nbsp;&nbsp;•&nbsp;&nbsp;`Firebase`  
+**🔧 Tools:** &nbsp;&nbsp;`Git`&nbsp;&nbsp;•&nbsp;&nbsp;`GitHub`&nbsp;&nbsp;•&nbsp;&nbsp;`DBeaver`&nbsp;&nbsp;•&nbsp;&nbsp;`LaTeX`&nbsp;&nbsp;•&nbsp;&nbsp;`Excel`
 
-### 💻 Programming:
-`Python` • `SQL` • `JavaScript` • `C++`
-
-### 📊 ML & AI:
-`TensorFlow` • `Deep Learning` • `Computer Vision` • `NLP` • `OpenCV` • `Pandas` • `NumPy`
-
-### 🛠️ Backend / Development:
-`Flask` • `Django` • `Firebase`
-
-### 🔧 Tools:
-`Git` • `GitHub` • `DBeaver` • `LaTeX` • `Excel`
-
----
 
 ## 🏅 Certificates
 

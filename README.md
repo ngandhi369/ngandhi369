@@ -43,7 +43,7 @@ Reach me at: gandhinirdosh@gmail.com
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### ⚙️ Data Engineering:
 `Azure Databricks` • `Azure Databricks` • `Azure Data Factory` • `PySpark` • `Delta Lake` • `ETL` • `SQL`
@@ -52,7 +52,7 @@ Reach me at: gandhinirdosh@gmail.com
 `Python` • `SQL` • `JavaScript` • `C++`
 
 ### 📊 ML & AI:
-`TensorFlow` • `Deep Learning` • `Computer Vision` • `NLP` • `OpenCV` • `Pandas` • `NumPy 
+`TensorFlow` • `Deep Learning` • `Computer Vision` • `NLP` • `OpenCV` • `Pandas` • `NumPy`
 
 ### 🛠️ Backend / Development:
 `Flask` • `Django` • `Firebase`
@@ -62,7 +62,18 @@ Reach me at: gandhinirdosh@gmail.com
 
 ---
 
-# 🤝 Let's Connect
+## 🏅 Certificates
+
+<p align="center">
+  <img alt="Databricks Certified Data Engineer Associate" src="https://github.com/user-attachments/assets/d0ce3c5b-80cb-4095-9c83-3cf06e0babbc" height="180"/>
+  <img alt="Azure AI Certification" src="https://github.com/user-attachments/assets/dffe7b4e-eb2b-485e-ba1a-d3f375d9c9da" height="180"/>
+  <img alt="ML Specialization" src="https://github.com/user-attachments/assets/68140509-a671-4515-9177-8fb7a6e7b8e7" height="180"/>
+</p>
+
+---
+
+
+## 🤝 Let's Connect
 
 <div align="center">
 

@@ -56,7 +56,7 @@ Reach me at: gandhinirdosh@gmail.com
 
 <p align="center">
   <img alt="Databricks Certified Data Engineer Associate" src="https://github.com/user-attachments/assets/d0ce3c5b-80cb-4095-9c83-3cf06e0babbc" height="180"/>
-  <img alt="Azure AI Certification" src="https://github.com/user-attachments/assets/dffe7b4e-eb2b-485e-ba1a-d3f375d9c9da" height="180"/>
+  <img alt="Azure AI Fundamentals" src="https://github.com/user-attachments/assets/3959f339-932f-49a2-8f4a-8a55defeb32a" height="180"/>
   <img alt="ML Specialization" src="https://github.com/user-attachments/assets/68140509-a671-4515-9177-8fb7a6e7b8e7" height="180"/>
 </p>
 

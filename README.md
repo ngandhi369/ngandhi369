@@ -46,22 +46,19 @@ Reach me at: gandhinirdosh@gmail.com
 # 🛠 Tech Stack
 
 ### ⚙️ Data Engineering:
-`Azure Databricks` • `PySpark` • `ADF` • `Delta Lake` • `ETL` • `SQL`
+`Azure Databricks` • `Azure Databricks` • `Azure Data Factory` • `PySpark` • `Delta Lake` • `ETL` • `SQL`
 
 ### 💻 Programming:
 `Python` • `SQL` • `JavaScript` • `C++`
 
-### 🤖 Data & AI:
-`TensorFlow` • `Deep Learning` • `Computer Vision` • `NLP` • `OpenCV`
-
-### 📊 Data Tools:  
-`Pandas` • `NumPy` • `Tableau` • `Excel`
+### 📊 ML & AI:
+`TensorFlow` • `Deep Learning` • `Computer Vision` • `NLP` • `OpenCV` • `Pandas` • `NumPy 
 
 ### 🛠️ Backend / Development:
 `Flask` • `Django` • `Firebase`
 
 ### 🔧 Tools:
-`Git` • `GitHub` • `DBeaver` • `LaTeX`
+`Git` • `GitHub` • `DBeaver` • `LaTeX` • `Excel`
 
 ---
 

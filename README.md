@@ -1,6 +1,6 @@
 # Hey 👋, I'm Nirdosh Gandhi!
 
-### Data Engineer | AI Researcher | M.Tech (Artificial Intelligence)
+### Data Engineer | AI Enthusiast | M.Tech (Artificial Intelligence)
 
 Glad to see you here!  
 
@@ -62,17 +62,6 @@ Reach me at: gandhinirdosh@gmail.com
 
 ### 🔧 Tools:
 `Git` • `GitHub` • `DBeaver` • `LaTeX`
-
----
-
-# 📚 Research Work
-
-📄 **Image Caption Generator using Deep Learning (CNN + LSTM)**  
-- Feature extraction using **VGG16**
-- Encoder–Decoder architecture
-- NLP pipeline for caption generation
-- Evaluated using **BLEU scores**
-- Dataset: **Flickr8k**
 
 ---
 

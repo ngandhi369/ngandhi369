@@ -132,5 +132,5 @@ Currently at **Axtria (Bengaluru)**, designing Spark-based Lakehouse systems for
 ---
 
 <p align="center">
-  <i>M.Tech Artificial Intelligence · Delhi Technological University · CGPA 8.95 · IEEE Published · Axtria Bravo Award 2025</i>
+  <i>Data Engineer · M.Tech Artificial Intelligence · Delhi Technological University · IEEE Published · Axtria Bravo Award 2025</i>
 </p>
